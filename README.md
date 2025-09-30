@@ -9,6 +9,11 @@
 - これからはこの形式で配布することが多くなります。また、サーバーを作る難易度が少し上がっていますのでご注意ください。
 - それ以外は変わりません
 
+## What's this?
+- This is the same as Error888, but it's a version that doesn't directly distribute the Minecraft source code.
+- We'll be distributing this format more often from now on. Please note that it's now slightly more difficult to create a server.
+- Everything else is the same.
+
 ## 注意
 - このバージョンはMojang公式から実際に出されたものではなく、また公式に認定されたものでもありません。
 - このバージョンをプレイして発生した損害に関しては製作者は一切の責任を負いません。
