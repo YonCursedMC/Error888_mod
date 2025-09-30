@@ -58,8 +58,11 @@ https://multimc.org/#Download<br>
 4. 楽しむ！
 
 ### サーバー(起動の仕方が変わっています)
-- Beta1.6.6のMinecraft Serverをダウンロードし、
-http://files.betacraft.uk/server-archive/beta/b1.6.6.jar
+- Beta1.6.6のMinecraft Serverをダウンロードし、<br>
+http://files.betacraft.uk/server-archive/beta/b1.6.6.jar<br>
+- https://github.com/YonCursedMC/Error888_mod/releases にある、 Error888_server.zip をダウンロードします。
+- Beta1.6.6の中身を7-zipなどで展開し、Error888_server.zipの中身をそのBeta1.6.6の中に上書きします。
+- そうして起動して、Error888になっていたら完成です。
 ※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
 - 必ずオフラインモードで実行してください！(初期状態ではオフになっています)<br>
 
@@ -82,10 +85,13 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 4. Enjoy!
 
 ### Server (The startup method has changed)
-- Download the Beta 1.6.6 Minecraft Server,
-http://files.betacraft.uk/server-archive/beta/b1.6.6.jar
-* It works differently from the client, is not perfect, and has many bugs! Please tolerate bugs while doing this! <br>
-- Be sure to run in offline mode! (This is turned off by default.) <br>
+- Download the Beta 1.6.6 Minecraft Server.<br>
+http://files.betacraft.uk/server-archive/beta/b1.6.6.jar<br>
+- Download Error888_server.zip from https://github.com/YonCursedMC/Error888_mod/releases.
+- Extract the contents of Beta 1.6.6 using 7-zip or similar, and overwrite the contents of Error888_server.zip with the contents of Beta 1.6.6.
+- Start the server, and if Error 888 appears, it's complete.
+* The server operates differently from the client, is not perfect, and has many bugs! Please tolerate bugs while doing this! <br>
+- Be sure to run it in offline mode! (This is turned off by default.)<br>
 
 ## クレジット
 クレジット
